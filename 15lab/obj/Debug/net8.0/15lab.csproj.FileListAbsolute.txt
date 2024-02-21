@@ -1,0 +1,14 @@
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\bin\Debug\net8.0\15lab.exe
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\bin\Debug\net8.0\15lab.deps.json
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\bin\Debug\net8.0\15lab.runtimeconfig.json
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\bin\Debug\net8.0\15lab.dll
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\bin\Debug\net8.0\15lab.pdb
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\obj\Debug\net8.0\15lab.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\obj\Debug\net8.0\15lab.AssemblyInfoInputs.cache
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\obj\Debug\net8.0\15lab.AssemblyInfo.cs
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\obj\Debug\net8.0\15lab.csproj.CoreCompileInputs.cache
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\obj\Debug\net8.0\15lab.dll
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\obj\Debug\net8.0\refint\15lab.dll
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\obj\Debug\net8.0\15lab.pdb
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\obj\Debug\net8.0\15lab.genruntimeconfig.cache
+c:\Users\mrzamay\Desktop\ООП\lab1\15lab\obj\Debug\net8.0\ref\15lab.dll
