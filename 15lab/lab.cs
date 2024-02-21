@@ -59,7 +59,6 @@ namespace lab15
                     doubleX *= x2;
                     sum += doubleX / f;
                 }
-               Console.WriteLine("При  x = {0}, Y(x) = {1}, S(x)={2}" , Math.Round(x, 2), Math.Round(Math.Exp(2 * x), 4), sum);
                z[counter,0] = Math.Round(x, 2);
                z[counter,1] = Math.Round(Math.Exp(2 * x), 4);
                z[counter,2] = Math.Round(sum, 4);
