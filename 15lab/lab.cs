@@ -31,10 +31,10 @@ namespace lab15
             d = ((a + b + c) / 3);
             string grade = "";
             if (d >= 90) { grade = "Е+"; }
-            else if (d >= 80 || d < 90) { grade = "Е"; }
-            else if (d >= 70 || d < 80) { grade = "A+"; }
-            else if (d >= 60 || d < 70) { grade = "A"; }
-            else if (d >= 50 || d < 60) { grade = "B+"; }
+            else if (d >= 80 && d < 90) { grade = "Е"; }
+            else if (d >= 70 && d < 80) { grade = "A+"; }
+            else if (d >= 60 && d < 70) { grade = "A"; }
+            else if (d >= 50 && d < 60) { grade = "B+"; }
             else if (d < 50) { grade = "FAIL"; }
             return grade;
         }
